@@ -1,0 +1,7 @@
+/bs-admin-files
+/files
+/bs-admin/archive
+/bs-admin/log
+/bs-admin/cache
+.htaccess
+.gitkeep
