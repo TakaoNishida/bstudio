@@ -6,7 +6,7 @@
  * Licensed under the GPL, LGPL and MPL Open Source licenses.
 */
 	$file = pathinfo($_REQUEST['url']);
-
+test
 	require_once('./bs-admin/config/core_config.php');
 	require_once(B_DOC_ROOT . B_ADMIN_ROOT . 'class/B_Session.php');
 	$ses = new B_Session;
